@@ -1,0 +1,15 @@
+{
+  "name": "myfilebrowserapp",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "angular": "^1.7.4",
+    "angular-route": "^1.7.4",
+    "bootstrap": "^4.1.3",
+    "jsTree-directive": "jstree-directive#^0.1.5"
+  }
+}
